@@ -57,5 +57,6 @@ Closed: 112.6 × 114 × 27.2 mm. Base walls 2.4 mm; lid 2 mm; all outer edges ro
 ## Credits
 
 - Device and Cap geometry: [M5Stack M5_Hardware](https://github.com/m5stack/M5_Hardware) (MIT).
-- The Cap pocket shape (shelf plus clip slot) follows Rockel83's *Cardputer Cap Locker* on MakerWorld.
-  That file is not included in this repository.
+- This case is a modification of Rockel83's *Cardputer Cap Locker* (Cap + antenna case) on MakerWorld.
+  Its Cap pocket shape (shelf plus clip slot) is used here, set deeper in the base, with hold-down ribs added under the lid.
+  All credit for that pocket design goes to Rockel83. Their original file is not included in this repository.
