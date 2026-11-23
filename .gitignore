@@ -1,0 +1,6 @@
+# Rockel83's MakerWorld file is under the Standard Digital File License (no redistribution).
+reference/rockel83/
+# Slicer intermediates (the .gcode.3mf files already contain the G-code)
+exports/plate_1.gcode
+exports/result.json
+.DS_Store
