@@ -1,9 +1,11 @@
 # M5Stack CardputerZero carry case
 
 A flat, print-in-place carry case for an **M5Stack CardputerZero**, two **Caps** (CC1101 and
-LoRa-1262, which are the same size) and their two antennas. Modelled in Plasticity.
+LoRa-1262, which are the same size), their two antennas and a small screwdriver. Modelled in Plasticity.
 
-![layout](docs/layout.png)
+![The printed case loaded with a CardputerZero, CC1101 and LoRa Caps, two antennas and a screwdriver](docs/photo-loaded.jpg)
+
+![Model view of the case printed open](docs/layout.png)
 
 ## What it holds
 
@@ -12,6 +14,11 @@ LoRa-1262, which are the same size) and their two antennas. Modelled in Plastici
 | Device | CardputerZero | Finger notch through the dividers to lift it out |
 | Cap 1, Cap 2 | One Cap each | Shelf plus deeper clip slot so the cap sits flat and can't slide; ribs under the lid hold it down |
 | Antenna 1, Antenna 2 | One antenna each | Channels along the side with a cross notch to pinch them out |
+| Screwdriver | A small screwdriver | Slot to the right of the antennas, 11.6 mm wide, 109 mm long and 12.6 mm deep; the same cross notch reaches it |
+
+**Push-out holes.** The device and both Caps fit snugly, so the floor has three round holes, one under
+the device (20 mm) and one under each Cap (18 mm). Push up through the hole from underneath and the part
+lifts out of its pocket. They sit in the middle of each pocket, clear of the Caps' clips.
 
 The lid closes with a snap latch (a tab on the lid clicks over a ramped bump on the front wall).
 
@@ -25,8 +32,8 @@ Tested on a Bambu Lab P1S:
 - PETG, 0.4 mm nozzle, 0.20 mm layers
 - 250 °C nozzle, 70 °C bed
 - No supports
-- About 2 h 40 min and 104 g
-- Footprint 112.6 × 241.2 mm, so it needs a bed at least 245 mm long
+- About 2 h 55 min and 114 g
+- Footprint 125.4 × 241.2 mm, so it needs a bed at least 245 mm long
 
 After printing, open and close the lid a few times to free the hinge.
 
@@ -42,7 +49,7 @@ clearances before committing to the full case.
 
 ## Dimensions
 
-Closed: 112.6 × 114 × 27.2 mm. Base walls 2.4 mm; lid 2 mm; all outer edges rounded.
+Closed: 125.4 × 114 × 27.2 mm. Base walls 2.4 mm; lid 2 mm; all outer edges rounded.
 
 ## Files
 
