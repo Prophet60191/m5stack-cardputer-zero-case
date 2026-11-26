@@ -42,7 +42,7 @@ clearances before committing to the full case.
 
 ## Hinge design
 
-- Three knuckles on the base and two on the lid, with the axis at mid-height so both halves lie flat when printed open.
+- Three knuckles on the base and two on the lid, centered on the back edge, with the axis at mid-height so both halves lie flat when printed open.
 - Knuckles turn on 45° cone pins with 0.4 mm clearance, and there's a 0.5 mm gap between knuckles.
 - 45° gussets under the base knuckles mean nothing overhangs.
 - The swing was collision-checked from 0° to 180°. The only contact is the latch snapping over its bump.
@@ -55,7 +55,7 @@ Closed: 125.4 × 114 × 27.2 mm. Base walls 2.4 mm; lid 2 mm; all outer edges ro
 
 | Path | What |
 |---|---|
-| `CardputerZeroCase.plasticity` | Source model (Plasticity) |
+| `CardputerZeroCase.plasticity` | Source model (Plasticity). Note: the hinge in this file is still 6.4 mm left of center; the STL and 3MF have it centered |
 | `exports/CardputerZero_Case.stl` | Print file: base and lid, in print position |
 | `exports/CardputerZero_Case.gcode.3mf` | Sliced plate for a Bambu P1S, PETG |
 | `exports/Hinge_Test.stl`, `.gcode.3mf` | Hinge test piece |
