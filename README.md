@@ -7,6 +7,8 @@ LoRa-1262, which are the same size), their two antennas and a small screwdriver.
 
 ![Model view of the case printed open](docs/layout.png)
 
+[Documentation and file map](docs/README.md) · [Project instructions](AGENTS.md) · [Session history](CHANGELOG.md)
+
 ## What it holds
 
 | Pocket | Holds | Notes |
